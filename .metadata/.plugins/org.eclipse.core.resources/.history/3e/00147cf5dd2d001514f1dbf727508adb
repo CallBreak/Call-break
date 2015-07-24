@@ -1,0 +1,20 @@
+package com.example.andenginetest;
+
+import org.andengine.examples.adt.card.Card;
+
+public class GetCard {
+	
+	public static Card getcard(int no){
+		Card a = Card.CLUB_ACE;
+		
+		switch (no) {
+		
+		case 1 : return Card.HEART_ACE;
+		}
+			
+		
+		return a;
+		
+	}
+
+}

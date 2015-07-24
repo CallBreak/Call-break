@@ -1,0 +1,14 @@
+package com.example.andenginetest;
+
+import org.andengine.examples.adt.card.Card;
+
+public class GetCard {
+	
+	public static Card getcard(int no){
+		Card a = Card.CLUB_ACE;
+		
+		return a;
+		
+	}
+
+}

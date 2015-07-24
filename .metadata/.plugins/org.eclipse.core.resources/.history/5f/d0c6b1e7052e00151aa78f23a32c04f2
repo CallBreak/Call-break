@@ -1,0 +1,81 @@
+package com.example.andenginetest;
+
+import org.andengine.examples.adt.card.Card;
+
+public class GetCard {
+	
+	public static Card getcard(int no){
+		Card a = Card.HEART_ACE;
+		
+		switch (no) {
+		
+		case 1 : {a = Card.HEART_ACE;                break;}
+		case 2 : {a = Card.HEART_ONE;                break;}
+		case 3 : {a = Card.HEART_TWO;                break;}
+		case 4 : {a = Card.HEART_THREE;                break;}
+		case 5 : {a = Card.HEART_FOUR;                break;}
+		case 6 : {a = Card.HEART_FIVE;                break;}
+		case 7 : {a = Card.HEART_SIX;                break;}
+		case 8: {a = Card.HEART_SEVEN;                break;}
+		case 9 : {a = Card.HEART_EIGHT;                break;}
+		case 10 : {a = Card.HEART_NINE;                break;}
+		case 11 : {a = Card.HEART_TEN;                break;}
+		case 12 : {a = Card.HEART_JACK;                break;}
+		case 13 : {a = Card.HEART_QUEEN;                break;}
+		
+		
+		
+		case 14 : {a = Card.CLUB_ACE;                break;}
+		case 15 : {a = Card.CLUB_ONE;                break;}
+		case 16 : {a = Card.CLUB_TWO;                break;}
+		case 17 : {a = Card.CLUB_THREE;                break;}
+		case 18 : {a = Card.CLUB_FOUR;                break;}
+		case 19 : {a = Card.CLUB_FIVE;                break;}
+		case 20 : {a = Card.CLUB_SIX;                break;}
+		case 21 : {a = Card.CLUB_SEVEN;                break;}
+		case 22 : {a = Card.CLUB_EIGHT;                break;}
+		case 23: {a = Card.CLUB_NINE;                break;}
+		case 24: {a = Card.CLUB_TEN ;                break;}
+		case 25 : {a = Card.CLUB_JACK;                break;}
+		case 26 : {a = Card.CLUB_QUEEN;                break;}
+		
+		
+		
+		case 27 : {a = Card.SPADE_ACE;                break;}
+		case 28 : {a = Card.SPADE_ONE;                break;}
+		case 29 : {a = Card.SPADE_TWO;                break;}
+		case 30 : {a = Card.SPADE_THREE;                break;}
+		case 31 : {a = Card.SPADE_FOUR;                break;}
+		case 32 : {a = Card.SPADE_FIVE;                break;}
+		case 33: {a = Card.SPADE_SIX;                break;}
+		case 34 : {a = Card.SPADE_SEVEN;                break;}
+		case 35: {a = Card.SPADE_EIGHT;                break;}
+		case 36 : {a = Card.SPADE_NINE;                break;}
+		case 37: {a = Card.SPADE_TEN;                break;}
+		case 38: {a = Card.SPADE_JACK;                break;}
+		case 39 : {a = Card.SPADE_QUEEN;                break;}
+		
+		
+		
+		case 40 : {a = Card.DIAMOND_ACE;                break;}
+		case 41 : {a = Card.DIAMOND_ONE;                break;}
+		case 42 : {a = Card.DIAMOND_TWO;                break;}
+		case 43: {a = Card.DIAMOND_THREE;                break;}
+		case 44 : {a = Card.DIAMOND_FOUR;                break;}
+		case 45: {a = Card.DIAMOND_FIVE;                break;}
+		case 46 : {a = Card.DIAMOND_SIX;                break;}
+		case 47 : {a = Card.DIAMOND_SEVEN;                break;}
+		case 48: {a = Card.DIAMOND_EIGHT;                break;}
+		case 49: {a = Card.DIAMOND_NINE;                break;}
+		case 50: {a = Card.DIAMOND_TEN;                break;}
+		case 51: {a = Card.DIAMOND_JACK;                break;}
+		case 52: {a = Card.DIAMOND_QUEEN;                break;}
+		
+		}
+			
+		
+		return a;
+		
+	}
+
+}

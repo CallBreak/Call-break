@@ -1,0 +1,31 @@
+package com.example.andenginetest;
+
+import android.view.Window;
+import android.view.WindowManager;
+
+public class GetBoundary {
+	
+	
+	private final  int WIDTH=800;
+	private final  int HEIGHT=480;
+
+	
+	public int [][] allBoundries ;
+	
+	int midX = WIDTH/2;
+	int midY = HEIGHT/2;
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+}

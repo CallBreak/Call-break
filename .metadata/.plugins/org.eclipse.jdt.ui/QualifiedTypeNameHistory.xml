@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.andengine.ui.activity.SimpleBaseGameActivity"/>
+<fullyQualifiedTypeName name="android.graphics.Camera"/>
+<fullyQualifiedTypeName name="org.andengine.engine.camera.Camera"/>
+<fullyQualifiedTypeName name="org.andengine.engine.options.EngineOptions"/>
+<fullyQualifiedTypeName name="org.andengine.engine.options.ScreenOrientation"/>
+<fullyQualifiedTypeName name="org.andengine.engine.options.resolutionpolicy.RatioResolutionPolicy"/>
+<fullyQualifiedTypeName name="org.andengine.opengl.texture.bitmap.BitmapTexture"/>
+<fullyQualifiedTypeName name="org.andengine.opengl.texture.atlas.bitmap.BitmapTextureAtlas"/>
+<fullyQualifiedTypeName name="org.andengine.opengl.texture.TextureOptions"/>
+<fullyQualifiedTypeName name="org.andengine.opengl.texture.atlas.bitmap.BitmapTextureAtlasTextureRegionFactory"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="org.andengine.opengl.texture.region.TextureRegion"/>
+<fullyQualifiedTypeName name="android.view.WindowManager"/>
+<fullyQualifiedTypeName name="android.view.Window"/>
+<fullyQualifiedTypeName name="java.security.AllPermission"/>
+<fullyQualifiedTypeName name="com.example.andenginetest.GetBoundary"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="com.example.andenginetest.GetCard"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="org.andengine.engine.options.resolutionpolicy.FillResolutionPolicy"/>
+</qualifiedTypeNameHistroy>

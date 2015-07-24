@@ -1,0 +1,30 @@
+package com.example.andenginetest;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
+public class Suffle  {
+	
+	public static ArrayList <Integer>getSuffledCards(){
+		
+		
+		ArrayList <Integer> list = new ArrayList<Integer>();
+		for (int i=0; i <52;i++) {
+			list.add(new Integer(i));
+		}
+		
+	//	Collections.shuffle(list);
+		for(int i=0;i<52;i++){
+		System.out.println(i+"\n");
+		}
+		
+		
+		return list;
+	}
+
+	
+	
+	
+	
+	
+}
